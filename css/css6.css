@@ -1,0 +1,12 @@
+ body{
+    background-color: aquamarine;
+    color: brown;
+    margin: 0;
+ }
+*{
+            box-sizing:border-box;
+ }
+ h1{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: 500;
+ }
